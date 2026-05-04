@@ -30,4 +30,4 @@ Track investments, expenses, revenue, and analyze business growth with real-time
 
 ## 📸 Project Output
 
-![Project Output](output.png)
+![Project Output](outputs.png)
