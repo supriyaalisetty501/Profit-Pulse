@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Profit Pulse Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        
+  <marquee><h1>📊 Business Profit Dashboard</h1></marquee>
+        <div class="input-box">
+            <input type="number" id="investment" placeholder="Monthly Investment">
+            <input type="number" id="expense" placeholder="Monthly Expenses">
+            <input type="number" id="revenue" placeholder="Monthly Revenue">
+            <button onclick="calculateBusiness()">Analyze</button>
+        </div>
+
+        <div class="result-box">
+            <h2>Results</h2>
+            <p id="monthlyProfit"></p>
+            <p id="monthlyStatus"></p>
+            <p id="yearProfit"></p>
+        </div>
+
+        <div class="charts">
+            <div class="chart-box">
+                <canvas id="barChart"></canvas>
+            </div>
+            <div class="chart-box">
+                <canvas id="pieChart"></canvas>
+            </div>
+        </div>
+    </div>
+<marquee><p>© 2024 Business Profit Dashboard. All rights reserved.</p></marquee>
+<marquee>Designed By Alisetty Supriya</marquee>
+
+    <script src="script.js"></script>
+</body>
+</html>
