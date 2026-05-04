@@ -31,3 +31,4 @@ Track investments, expenses, revenue, and analyze business growth with real-time
 ## 📸 Project Output
 
 ![Project Output](outputs.png)
+<marquee style=color:"Blue">Designed By Alisetty Supriya</marquee>
