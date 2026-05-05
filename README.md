@@ -33,7 +33,7 @@ Profit---
 ![Project Output](op-1.png)
 
 Loss---
-![Project Output](op-1.png)
+![Project Output](op-2.png)
 
 Break Even---
 ![Project Output](outputs.png)
