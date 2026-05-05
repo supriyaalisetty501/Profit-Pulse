@@ -29,6 +29,13 @@ Track investments, expenses, revenue, and analyze business growth with real-time
 ---
 
 ## 📸 Project Output
+Profit---
+![Project Output](op-1.png)
 
+Loss---
+![Project Output](op-1.png)
+
+Break Even---
 ![Project Output](outputs.png)
+
 <div align="center">Designed By Alisetty Supriya...!</div>
